@@ -1,0 +1,24 @@
+body{
+    background-color: wheat;
+}
+.heading{
+    font-size: 50px;
+    font-weight: bold;
+    color: brown;
+}
+.Text{
+    font-size: 30px;
+    font-weight: bold;
+    color: chocolate;
+}
+.img{
+    padding: 2px 2px 2px 2px;
+    margin: 5px 5px 5px 5px;
+    border: 5px solid burlywood;
+    border-radius: 10px;
+}
+.subText{
+    font-size: 20px;
+    color:darkgreen;
+    font-weight: bold;
+}

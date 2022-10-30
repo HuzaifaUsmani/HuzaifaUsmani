@@ -1,5 +1,10 @@
 body{
     background-color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+    font-size: 51px;
+    color:rgb(163, 91, 33);
 }
 .heading{
     font-size: 50px;
@@ -21,4 +26,8 @@ body{
     font-size: 20px;
     color:darkgreen;
     font-weight: bold;
+}
+.line{
+    border: 1px dashed chocolate;
+    width: 50%;
 }
